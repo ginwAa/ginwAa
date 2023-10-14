@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ginwaa feng</h1>
-<h3 align="center">An ordinary developer from Guangzhou</h3>
+<h1 align="center">Hi, there</h1>
+<h3 align="center">Driven by laziness</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ginwaa&label=Profile%20views&color=0e75b6&style=flat" alt="ginwaa" /> </p>
 
